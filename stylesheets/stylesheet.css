@@ -24,7 +24,7 @@ body {
   border-top: 4.5px solid black;
   min-height: calc(100% - 120px);
   background: #FFF;
-  padding: 30px 30px;
+  padding: 30px 38px;
   position: absolute;
   border-radius: 1px 1px 0 0;
   transform: translateX(-50%);
