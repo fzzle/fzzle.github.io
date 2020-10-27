@@ -1,6 +1,7 @@
 # Commands in MSG and their parameters
-##### MSG.AboutBox.V1_0_0.AboutBoxRequest (key: ABOUTBOX, version: 1.0.0)
-##### MSG.AcceptClosedEvent.V1_0_0.AcceptClosedEventReq (key: ACE, version: 1.0.0)
+#### MSG.AboutBox.V1_0_0.AboutBoxRequest (key: ABOUTBOX, version: 1.0.0)
+#### MSG.AcceptClosedEvent.V1_0_0.AcceptClosedEventReq
+(key: ACE, version: 1.0.0)
 - location
 - location.loc
 - location.conf
